@@ -1,0 +1,15 @@
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\bin\Debug\net6.0\Week_5_Activity_10.exe
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\bin\Debug\net6.0\Week_5_Activity_10.deps.json
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\bin\Debug\net6.0\Week_5_Activity_10.runtimeconfig.json
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\bin\Debug\net6.0\Week_5_Activity_10.dll
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\bin\Debug\net6.0\Week_5_Activity_10.pdb
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.csproj.AssemblyReference.cache
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.AssemblyInfoInputs.cache
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.AssemblyInfo.cs
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.csproj.CoreCompileInputs.cache
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.dll
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\refint\Week_5_Activity_10.dll
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.pdb
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\Week_5_Activity_10.genruntimeconfig.cache
+D:\C# Activitys\Week_5_Activity_10\Week_5_Activity_10\obj\Debug\net6.0\ref\Week_5_Activity_10.dll
